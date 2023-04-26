@@ -1,2 +1,3 @@
+
 # information
-Simple Machine learning classification algorithms with sklearn test datasets
+Simple 🤖 Machine learning classification algorithms (LogisticRegression, LinearDiscriminantAnalysis, KNeighborsClassifier, DecisionTreeClassifier, GaussianNB, SVC) with sklearn test datasets
